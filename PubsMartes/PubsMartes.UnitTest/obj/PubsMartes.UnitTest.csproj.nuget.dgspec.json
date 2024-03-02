@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabe\\Downloads\\ProgMarte\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj": {}
+    "C:\\Users\\nisau\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabe\\Downloads\\ProgMarte\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj": {
+    "C:\\Users\\nisau\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabe\\Downloads\\ProgMarte\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\nisau\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
         "projectName": "PubsMartes.UnitTest",
-        "projectPath": "C:\\Users\\Isabe\\Downloads\\ProgMarte\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabe\\Downloads\\ProgMarte\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\obj\\",
+        "projectPath": "C:\\Users\\nisau\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\nisau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisau\\Source\\Repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nisau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,6 +76,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
