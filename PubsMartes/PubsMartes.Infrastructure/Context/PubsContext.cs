@@ -3,12 +3,21 @@ using PubsMartes.Domain.Entities;
 
 namespace PubsMartes.Infrastructure.Context
 {
-    public class PubsContext : DbContext
+    public class PubsMartesContext : DbContext
     {
-        public PubsContext(DbContextOptions<PubsContext> options) : base(options)
-        {
-        }
-        public DbSet<jobs> Jobs { get; set; }
+        internal object jobs;
 
+        public PubsMartesContext(DbContextOptions<PubsMartesContext> options) : base(options)
+        {
+
+        }
+        public DbSet<Jobs> Jobs { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+
+        {
+            modelBuilder.Entity<Jobs>().HasKey(e => e.JobID);
+            
+        }
     }
 }

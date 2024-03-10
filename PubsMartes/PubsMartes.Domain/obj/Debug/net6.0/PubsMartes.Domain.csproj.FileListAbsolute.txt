@@ -1,0 +1,12 @@
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\bin\Debug\net6.0\PubsMartes.Domain.deps.json
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\bin\Debug\net6.0\PubsMartes.Domain.dll
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\bin\Debug\net6.0\PubsMartes.Domain.pdb
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.AssemblyInfoInputs.cache
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.AssemblyInfo.cs
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.sourcelink.json
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.dll
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\refint\PubsMartes.Domain.dll
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.pdb
+C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\ref\PubsMartes.Domain.dll

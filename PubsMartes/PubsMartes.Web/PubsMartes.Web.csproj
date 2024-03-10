@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PubsMartes.Application\PubsMartes.Application.csproj" />
+    <ProjectReference Include="..\PubsMartes.Infrastructure\PubsMartes.Infrastructure.csproj" />
+    <ProjectReference Include="..\PubsMartes.Ioc\PubsMartes.Ioc.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,15 +1,14 @@
-﻿
+﻿using System;
 namespace PubsMartes.Domain.core
 {
     public abstract class BaseEntity
     {
-        public BaseEntity() 
-        {
-            
-        }
-
-        public string? City { get; set; }
-
-        public string? State { get; set; }
+        public int IDCreationUser { get; set; }
+        public DateTime CreationDate { get; set; }
+        public int? IDModifiedUser { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+        public int? DeletedUser { get; set; }
+        public DateTime? DeletedDate { get; set; }
+        public bool Deleted { get; set; }
     }
 }

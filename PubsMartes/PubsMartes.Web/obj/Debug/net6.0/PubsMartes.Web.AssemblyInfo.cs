@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PubsMartes.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f302d6b8ac3ed334be618702090a89f17b3b6cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dfe9a03af2ab6184f685ce7eed3ba5f19414a30")]
 [assembly: System.Reflection.AssemblyProductAttribute("PubsMartes.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PubsMartes.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,11 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Models\Modules\**" />
+    <Content Remove="Models\Modules\**" />
+    <EmbeddedResource Remove="Models\Modules\**" />
+    <None Remove="Models\Modules\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Modules\Pubs\" />
+    <ProjectReference Include="..\PubsMartes.Application\PubsMartes.Application.csproj" />
+    <ProjectReference Include="..\PubsMartes.Ioc\PubsMartes.Ioc.csproj" />
   </ItemGroup>
 
 </Project>
