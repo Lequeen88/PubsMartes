@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IymNK8gnkA1p5jQLkB1V3OGrEdUaDYayqMF0K+somvJd4UjfHmtH8gJOv2QUFyWAHpMg5axcRi99VJor0P7LNA==",
+  "dgSpecHash": "tsPpDSlTiEawNsAMJFZcpYLdw5pA0kvIMVC/WdJs35azLTaTj1W1VPVTPKqLSzUY8lgV4y4Q5uW2h/0h54WfKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\prog 2\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nisau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nisau\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nisau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

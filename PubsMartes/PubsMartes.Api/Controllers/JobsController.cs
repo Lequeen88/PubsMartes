@@ -21,11 +21,13 @@ namespace PubsMartes.Api.Controllers
         {
             var result = _jobsService.GetByID(ID);
 
-            if (!result.Success)
+            if (result.Data==null || !result.Success)
                 return BadRequest(result);
 
             return Ok(result);
         }
+
+
 
         //GETJOBS ENDPOINT
         [HttpGet("GetJobs")]

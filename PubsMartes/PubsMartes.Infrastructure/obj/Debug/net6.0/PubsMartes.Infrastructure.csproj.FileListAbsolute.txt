@@ -14,3 +14,19 @@ C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Infrastructure\obj\
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\refint\PubsMartes.Infrastructure.dll
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.pdb
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\ref\PubsMartes.Infrastructure.dll
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\bin\Debug\net6.0\PubsMartes.Infrastructure.deps.json
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\bin\Debug\net6.0\PubsMartes.Infrastructure.dll
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\bin\Debug\net6.0\PubsMartes.Infrastructure.pdb
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\bin\Debug\net6.0\PubsMartes.Domain.dll
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\bin\Debug\net6.0\PubsMartes.Domain.pdb
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.csproj.AssemblyReference.cache
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.AssemblyInfoInputs.cache
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.AssemblyInfo.cs
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.sourcelink.json
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMart.D1C94555.Up2Date
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.dll
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\refint\PubsMartes.Infrastructure.dll
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\PubsMartes.Infrastructure.pdb
+C:\prog 2\PubsMartes\PubsMartes.Infrastructure\obj\Debug\net6.0\ref\PubsMartes.Infrastructure.dll

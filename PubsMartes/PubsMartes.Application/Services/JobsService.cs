@@ -162,7 +162,17 @@ namespace PubsMartes.Application.Services
                         ChangeDate = JobsGet.CreationDate,
                         ChangeUser = JobsGet.IDCreationUser
                     };
-                    result.Data = jobs;
+
+                    if (JobsGet.Deleted ==true)
+                    {
+                        result.Data=null;
+                    }
+
+                    else
+                    {
+                        result.Data = jobs;
+                    }
+
                     result.Message = configuration["JobSuccessMessages:getJobsSuccessMessage"];
 
                 }

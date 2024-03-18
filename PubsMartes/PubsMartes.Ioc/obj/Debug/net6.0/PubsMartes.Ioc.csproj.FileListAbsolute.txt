@@ -18,3 +18,23 @@ C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\refint\PubsMartes.Ioc.dll
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.pdb
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\ref\PubsMartes.Ioc.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Ioc.deps.json
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Ioc.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Ioc.pdb
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Application.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Domain.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Infrastructure.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Application.pdb
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Infrastructure.pdb
+C:\prog 2\PubsMartes\PubsMartes.Ioc\bin\Debug\net6.0\PubsMartes.Domain.pdb
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.csproj.AssemblyReference.cache
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.AssemblyInfoInputs.cache
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.AssemblyInfo.cs
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.csproj.CoreCompileInputs.cache
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.sourcelink.json
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMart.DB3A9351.Up2Date
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\refint\PubsMartes.Ioc.dll
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\PubsMartes.Ioc.pdb
+C:\prog 2\PubsMartes\PubsMartes.Ioc\obj\Debug\net6.0\ref\PubsMartes.Ioc.dll

@@ -16,3 +16,21 @@ C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Application\obj\Deb
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\refint\PubsMartes.Application.dll
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.pdb
 C:\Users\Isabe\source\repos\pubsmartes\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\ref\PubsMartes.Application.dll
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Application.deps.json
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Application.dll
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Application.pdb
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Domain.dll
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Infrastructure.dll
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Infrastructure.pdb
+C:\prog 2\PubsMartes\PubsMartes.Application\bin\Debug\net6.0\PubsMartes.Domain.pdb
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.csproj.AssemblyReference.cache
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.AssemblyInfoInputs.cache
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.AssemblyInfo.cs
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.csproj.CoreCompileInputs.cache
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.sourcelink.json
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMart.18332E6E.Up2Date
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.dll
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\refint\PubsMartes.Application.dll
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\PubsMartes.Application.pdb
+C:\prog 2\PubsMartes\PubsMartes.Application\obj\Debug\net6.0\ref\PubsMartes.Application.dll

@@ -6906,19 +6906,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Isabe\\.nuget\\packages\\": {}
+    "C:\\Users\\nisau\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Web\\PubsMartes.Web.csproj",
+      "projectUniqueName": "C:\\prog 2\\PubsMartes\\PubsMartes.Web\\PubsMartes.Web.csproj",
       "projectName": "PubsMartes.Web",
-      "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Web\\PubsMartes.Web.csproj",
-      "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Web\\obj\\",
+      "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Web\\PubsMartes.Web.csproj",
+      "packagesPath": "C:\\Users\\nisau\\.nuget\\packages\\",
+      "outputPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nisau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6932,14 +6937,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj": {
-              "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj"
+            "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj": {
+              "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj"
             },
-            "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj"
+            "C:\\prog 2\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj": {
+              "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj"
             },
-            "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Ioc\\PubsMartes.Ioc.csproj": {
-              "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Ioc\\PubsMartes.Ioc.csproj"
+            "C:\\prog 2\\PubsMartes\\PubsMartes.Ioc\\PubsMartes.Ioc.csproj": {
+              "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Ioc\\PubsMartes.Ioc.csproj"
             }
           }
         }
@@ -6948,6 +6953,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6964,6 +6974,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6972,7 +7000,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

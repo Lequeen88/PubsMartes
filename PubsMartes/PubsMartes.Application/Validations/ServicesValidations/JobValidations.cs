@@ -33,7 +33,7 @@ namespace PubsMartes.Application.Validations.ServicesValidations
                 throw new JobServiceExeptions(errorMessage);
             }
 
-            if (dtobase.JobDescription.Length <= 10)
+            if (dtobase.JobDescription.Length <= 6)
             {
                 string errorMessage = _configurations["ValidationMessage:JobsDescriptionMinLenght"];
                 throw new JobServiceExeptions(errorMessage);
