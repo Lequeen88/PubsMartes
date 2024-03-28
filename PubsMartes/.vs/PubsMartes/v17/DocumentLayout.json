@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\prog 2\\PubsMartes\\",
+  "WorkspaceRootPath": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|c:\\prog 2\\pubsmartes\\pubsmartes.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.web\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|solutionrelative:pubsmartes.web\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|solutionrelative:pubsmartes.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|c:\\prog 2\\pubsmartes\\pubsmartes.application\\services\\jobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|solutionrelative:pubsmartes.application\\services\\jobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.application\\services\\consumeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|solutionrelative:pubsmartes.application\\services\\consumeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94EAAB1E-21C2-49BD-AC6B-40238DC25407}|PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj|c:\\prog 2\\pubsmartes\\pubsmartes.infrastructure\\repository\\jobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EAAB1E-21C2-49BD-AC6B-40238DC25407}|PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj|solutionrelative:pubsmartes.infrastructure\\repository\\jobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.web\\views\\job\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|solutionrelative:pubsmartes.web\\views\\job\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|c:\\prog 2\\pubsmartes\\pubsmartes.application\\validations\\servicesvalidations\\jobvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|solutionrelative:pubsmartes.application\\validations\\servicesvalidations\\jobvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.web\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|solutionrelative:pubsmartes.web\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|c:\\prog 2\\pubsmartes\\pubsmartes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|solutionrelative:pubsmartes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.application\\contract\\iconsumeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33830340-905D-4696-9D1C-2E15B1AB1CE9}|PubsMartes.Application\\PubsMartes.Application.csproj|solutionrelative:pubsmartes.application\\contract\\iconsumeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|c:\\prog 2\\pubsmartes\\pubsmartes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6FF02E2-0F19-447E-8B8E-F068335C1FB5}|PubsMartes.Api\\PubsMartes.Api.csproj|solutionrelative:pubsmartes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD7E093-C19F-41BF-A288-00D628A3AE14}|PubsMartes.Ioc\\PubsMartes.Ioc.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.ioc\\dependencies\\jobdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD7E093-C19F-41BF-A288-00D628A3AE14}|PubsMartes.Ioc\\PubsMartes.Ioc.csproj|solutionrelative:pubsmartes.ioc\\dependencies\\jobdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|c:\\users\\isabe\\downloads\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes\\pubsmartes.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FED06B-4E51-4710-84AC-9C18B383AC9E}|PubsMartes.Web\\PubsMartes.Web.csproj|solutionrelative:pubsmartes.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,85 +58,134 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "jobsRepository.cs",
-              "DocumentMoniker": "C:\\prog 2\\PubsMartes\\PubsMartes.Infrastructure\\Repository\\jobsRepository.cs",
-              "RelativeDocumentMoniker": "PubsMartes.Infrastructure\\Repository\\jobsRepository.cs",
-              "ToolTip": "C:\\prog 2\\PubsMartes\\PubsMartes.Infrastructure\\Repository\\jobsRepository.cs*",
-              "RelativeToolTip": "PubsMartes.Infrastructure\\Repository\\jobsRepository.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T01:48:39.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JobValidations.cs",
-              "DocumentMoniker": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\Validations\\ServicesValidations\\JobValidations.cs",
-              "RelativeDocumentMoniker": "PubsMartes.Application\\Validations\\ServicesValidations\\JobValidations.cs",
-              "ToolTip": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\Validations\\ServicesValidations\\JobValidations.cs",
-              "RelativeToolTip": "PubsMartes.Application\\Validations\\ServicesValidations\\JobValidations.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAawCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T01:38:05.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JobsController.cs",
-              "DocumentMoniker": "C:\\prog 2\\PubsMartes\\PubsMartes.Api\\Controllers\\JobsController.cs",
-              "RelativeDocumentMoniker": "PubsMartes.Api\\Controllers\\JobsController.cs",
-              "ToolTip": "C:\\prog 2\\PubsMartes\\PubsMartes.Api\\Controllers\\JobsController.cs",
-              "RelativeToolTip": "PubsMartes.Api\\Controllers\\JobsController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAlwEkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T01:30:38.001Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JobsService.cs",
-              "DocumentMoniker": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\Services\\JobsService.cs",
-              "RelativeDocumentMoniker": "PubsMartes.Application\\Services\\JobsService.cs",
-              "ToolTip": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\Services\\JobsService.cs*",
-              "RelativeToolTip": "PubsMartes.Application\\Services\\JobsService.cs*",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAtwLEAAAAQAAAA",
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Api\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Api\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Api\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "PubsMartes.Api\\Controllers\\JobsController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAzwEYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T01:26:47.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T22:57:56.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Views\\Job\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PubsMartes.Web\\Views\\Job\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Views\\Job\\Delete.cshtml",
+              "RelativeToolTip": "PubsMartes.Web\\Views\\Job\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T22:56:21.645Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\prog 2\\PubsMartes\\PubsMartes.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "PubsMartes.Api\\appsettings.json",
-              "ToolTip": "C:\\prog 2\\PubsMartes\\PubsMartes.Api\\appsettings.json",
-              "RelativeToolTip": "PubsMartes.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-18T01:12:36.685Z",
-              "EditorCaption": ""
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Views\\Job\\Details.cshtml",
+              "RelativeDocumentMoniker": "PubsMartes.Web\\Views\\Job\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Views\\Job\\Details.cshtml",
+              "RelativeToolTip": "PubsMartes.Web\\Views\\Job\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T22:53:54.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Application\\Services\\ConsumeApiService.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Application\\Services\\ConsumeApiService.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Application\\Services\\ConsumeApiService.cs",
+              "RelativeToolTip": "PubsMartes.Application\\Services\\ConsumeApiService.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAQwG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:51:42.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\prog 2\\PubsMartes\\PubsMartes.Api\\Program.cs",
-              "RelativeDocumentMoniker": "PubsMartes.Api\\Program.cs",
-              "ToolTip": "C:\\prog 2\\PubsMartes\\PubsMartes.Api\\Program.cs",
-              "RelativeToolTip": "PubsMartes.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACUAAAA",
+              "Title": "IConsumeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Application\\Contract\\IConsumeApiService.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Application\\Contract\\IConsumeApiService.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Application\\Contract\\IConsumeApiService.cs",
+              "RelativeToolTip": "PubsMartes.Application\\Contract\\IConsumeApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T00:58:01.756Z",
+              "WhenOpened": "2024-03-27T22:51:16.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Web\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Controllers\\JobController.cs",
+              "RelativeToolTip": "PubsMartes.Web\\Controllers\\JobController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:48:48.733Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobDependency.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Ioc\\Dependencies\\JobDependency.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Ioc\\Dependencies\\JobDependency.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Ioc\\Dependencies\\JobDependency.cs",
+              "RelativeToolTip": "PubsMartes.Ioc\\Dependencies\\JobDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:40:56.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Api\\Program.cs",
+              "RelativeToolTip": "PubsMartes.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:40:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PubsMartes.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Isabe\\Downloads\\pubsmartes\\pubsmartes\\pubsmartes\\PubsMartes\\PubsMartes.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PubsMartes.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:55:50.946Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

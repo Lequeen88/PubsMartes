@@ -17,6 +17,7 @@ namespace PubsMartes.Api
             builder.Services.AddDbContext<PubsMartesContext>(options =>  options.UseSqlServer(builder.Configuration.GetConnectionString("PubsContext")));
             builder.Services.AddTransient<IJobsRepository, jobRepository>();
             builder.Services.AddJobDependency();
+            builder.Services.AddHttpClient();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

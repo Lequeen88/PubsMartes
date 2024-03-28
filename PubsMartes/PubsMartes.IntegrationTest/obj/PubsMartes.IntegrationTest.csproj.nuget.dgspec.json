@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\prog 2\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj": {}
+    "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj": {}
   },
   "projects": {
-    "C:\\prog 2\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj": {
+    "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\prog 2\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj",
+        "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj",
         "projectName": "PubsMartes.IntegrationTest",
-        "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj",
-        "packagesPath": "C:\\Users\\nisau\\.nuget\\packages\\",
-        "outputPath": "C:\\prog 2\\PubsMartes\\PubsMartes.IntegrationTest\\obj\\",
+        "projectPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj",
+        "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nisau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,20 +77,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

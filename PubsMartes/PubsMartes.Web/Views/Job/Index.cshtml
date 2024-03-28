@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PubsMartes.Application.Dtos.Jobs.JobsDtoGetAll>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JobID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Minlvl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Maxlvl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChangeUser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChangeDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.JobID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JobDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Minlvl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Maxlvl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChangeUser)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChangeDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.JobID  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.JobID  }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.JobID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

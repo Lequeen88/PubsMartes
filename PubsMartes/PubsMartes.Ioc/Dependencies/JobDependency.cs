@@ -15,6 +15,8 @@ namespace PubsMartes.Ioc.Dependencies
             services.AddScoped<IJobsRepository, jobRepository>();
             services.AddTransient<JobValidations>();
             services.AddTransient<IJobsService, JobsService>();
+            services.AddTransient<IConsumeApiService, ConsumeApiService>();
+            
         }
     }
 }

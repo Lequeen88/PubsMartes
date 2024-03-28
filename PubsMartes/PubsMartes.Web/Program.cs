@@ -1,6 +1,10 @@
 using Microsoft.EntityFrameworkCore;
+using PubsMartes.Application.Contract;
+using PubsMartes.Application.Services;
 using PubsMartes.Ioc.Dependencies;
 using PubsMartes.Infrastructure.Context;
+using PubsMartes.Infrastructure.Interface;
+using PubsMartes.Infrastructure.Repository;
 
 namespace PubsMartes.Web
 {
@@ -9,20 +13,20 @@ namespace PubsMartes.Web
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-            // Context SQL // 
-
-            var connectionString = builder.Configuration.GetConnectionString("DBpublicaciones");
-
-            builder.Services.AddDbContext<PubsMartesContext>(options => options.UseSqlServer(connectionString));
-
-
             // Add services to the container.
 
-            builder.Services.AddControllersWithViews();
-
-            
+            // Add services to the container.
+            builder.Services.AddDbContext<PubsMartesContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("PubsContext")));
+            builder.Services.AddTransient<IJobsRepository, jobRepository>();
             builder.Services.AddJobDependency();
+            builder.Services.AddControllers();
+            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddControllersWithViews();
+            builder.Services.AddJobDependency();
+            builder.Services.AddHttpClient();
+            builder.Services.AddScoped<IConsumeApiService, ConsumeApiService>();
 
             var app = builder.Build();
 
@@ -31,6 +35,7 @@ namespace PubsMartes.Web
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -39,7 +44,7 @@ namespace PubsMartes.Web
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{ID?}");
+                pattern: "{controller=Job}/{action=Index}/{ID?}");
 
             app.Run();
         }

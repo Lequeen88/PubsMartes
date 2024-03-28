@@ -55,7 +55,7 @@ namespace PubsMartes.Api.Controllers
 
 
         //UPDATE_ENDPOINT
-        [HttpPost("UpdateJobs")]
+        [HttpPut("UpdateJobs")]
 
         public IActionResult UpdateJobs([FromBody] JobsDtoUpdate jobdtoupdate)
         {

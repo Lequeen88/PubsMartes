@@ -604,6 +604,19 @@
           }
         }
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Collections.Immutable/1.7.1": {
         "type": "package",
         "compile": {
@@ -1810,6 +1823,36 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "System.Collections.Immutable/1.7.1": {
       "sha512": "B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
       "type": "package",
@@ -2721,28 +2764,24 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Newtonsoft.Json >= 13.0.3",
       "PubsMartes.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nisau\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Isabe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj",
       "projectName": "PubsMartes.Application",
-      "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj",
-      "packagesPath": "C:\\Users\\nisau\\.nuget\\packages\\",
-      "outputPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Application\\obj\\",
+      "projectPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Application\\PubsMartes.Application.csproj",
+      "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nisau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2756,8 +2795,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\prog 2\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj": {
-              "projectPath": "C:\\prog 2\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj"
+            "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj"
             }
           }
         }
@@ -2776,6 +2815,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -2787,20 +2832,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
