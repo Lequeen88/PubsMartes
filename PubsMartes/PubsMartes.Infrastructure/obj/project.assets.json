@@ -2712,11 +2712,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj",
       "projectName": "PubsMartes.Infrastructure",
       "projectPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj",
+      "projectName": "PubsMartes.Infrastructure",
+      "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\obj\\",
+>>>>>>> Implementacion de la capa de servicio Parte II
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2733,8 +2741,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj": {
               "projectPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj"
+=======
+            "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj": {
+              "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj"
+>>>>>>> Implementacion de la capa de servicio Parte II
             }
           }
         }

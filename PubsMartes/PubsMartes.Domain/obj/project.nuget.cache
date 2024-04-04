@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EnZQyuxeYbJOYANr3tPya9B8cOONrxQMyC4XWr+y/ji2SxBRDC5Osg0xS79+KZJvM+W8pkrIVpzNwCVKQlMkuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj",
+=======
+  "dgSpecHash": "o9UhGqB0xuVJuI0ZEMXqbLLMEC5SmGBc7nFG+tbWllBAt5GLnrohIyHG+IeXeTk7y/WyZ1AgE4zJpJdkRmdKLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Domain\\PubsMartes.Domain.csproj",
+>>>>>>> Implementacion de la capa de servicio Parte II
   "expectedPackageFiles": [],
   "logs": []
 }

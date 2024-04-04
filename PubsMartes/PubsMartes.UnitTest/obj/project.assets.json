@@ -5522,11 +5522,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
       "projectName": "PubsMartes.UnitTest",
       "projectPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
+      "projectName": "PubsMartes.UnitTest",
+      "projectPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\PubsMartes.UnitTest.csproj",
+      "packagesPath": "C:\\Users\\Isabe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.UnitTest\\obj\\",
+>>>>>>> Implementacion de la capa de servicio Parte II
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",

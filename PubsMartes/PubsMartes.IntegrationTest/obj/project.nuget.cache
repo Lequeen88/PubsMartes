@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rGOcuirghXrA4E9CJsuN14JHBd8Db++rZ8E3ULRmk/7mxGpDkzeJ7ioOjeSk7PYYXH0+lj2lGBQP3a07EHDg3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj",
+=======
+  "dgSpecHash": "mk3d8nIYEBMg5JbvN4hKL9g+0gpnY5zQPbGmjL88jTGGezMF71A43/rg2dPupjggvwEJ8funme6EjZrHkR9n5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.IntegrationTest\\PubsMartes.IntegrationTest.csproj",
+>>>>>>> Implementacion de la capa de servicio Parte II
   "expectedPackageFiles": [
     "C:\\Users\\Isabe\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

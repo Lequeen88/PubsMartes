@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "GiG21P5CV0BKgf+o1UnFP4OUQLI58yCY6OUEdidnWVIQzO9NvBeNuG0B6YrnL/GvTp1sVsWMTe2hS+O/cH8JZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Web\\PubsMartes.Web.csproj",
+=======
+  "dgSpecHash": "QboMqZKnFVLI63JwmIL7e6uNX0TYcHjntnlTgi/wn12xKfOLBCx/jYvWatQXvXzKlCesYrol2d26JEIxBQP29w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Web\\PubsMartes.Web.csproj",
+>>>>>>> Implementacion de la capa de servicio Parte II
   "expectedPackageFiles": [
     "C:\\Users\\Isabe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -89,6 +95,7 @@
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.32\\microsoft.entityframeworkcore.sqlserver.3.1.32.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.32\\microsoft.extensions.caching.abstractions.3.1.32.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.32\\microsoft.extensions.caching.memory.3.1.32.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.32\\microsoft.extensions.configuration.binder.3.1.32.nupkg.sha512",
@@ -99,6 +106,17 @@
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.17\\microsoft.extensions.objectpool.5.0.17.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.options\\3.1.32\\microsoft.extensions.options.3.1.32.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+=======
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.17\\microsoft.extensions.objectpool.5.0.17.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+>>>>>>> Implementacion de la capa de servicio Parte II
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.identity.client\\4.56.0\\microsoft.identity.client.4.56.0.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.56.0\\microsoft.identity.client.extensions.msal.4.56.0.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qh3yUuiFL1XV6GLRhDfzYA5aogSekiizSnT6c5NznijkM1eys27vWmKHZGVVLJdYm0BiF4tHqTkmtbfycreLQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\Trabajo-Final\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj",
+=======
+  "dgSpecHash": "Rgz8iOH17BJ4jxfhpxL5fgRiBOySfg/GNIEAL8NKYip3iIaJQgnuTzytsXBc7slUFW5YW637Cowy7XXPFVxMfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isabe\\source\\repos\\pubsmartes\\PubsMartes\\PubsMartes.Infrastructure\\PubsMartes.Infrastructure.csproj",
+>>>>>>> Implementacion de la capa de servicio Parte II
   "expectedPackageFiles": [
     "C:\\Users\\Isabe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Isabe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

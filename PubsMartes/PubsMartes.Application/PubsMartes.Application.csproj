@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+>>>>>>> Implementacion de la capa de servicio Parte II
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 

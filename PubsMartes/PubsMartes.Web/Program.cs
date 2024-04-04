@@ -5,6 +5,11 @@ using PubsMartes.Ioc.Dependencies;
 using PubsMartes.Infrastructure.Context;
 using PubsMartes.Infrastructure.Interface;
 using PubsMartes.Infrastructure.Repository;
+<<<<<<< HEAD
+=======
+using System.Configuration;
+using System.Net.Http;
+>>>>>>> Implementacion de la capa de servicio Parte II
 
 namespace PubsMartes.Web
 {
@@ -26,6 +31,14 @@ namespace PubsMartes.Web
             builder.Services.AddControllersWithViews();
             builder.Services.AddJobDependency();
             builder.Services.AddHttpClient();
+            builder.Services.AddScoped<IConsumeApiService, ConsumeApiService>();
+
+            builder.Services.AddHttpClient("JobApi", (serviceProvider, httpClient) =>
+            {
+                var apiUrl = ConsumeApiService.Configuration.GetValue<string>("ApiUrl");
+                httpClient.BaseAddress = new Uri(apiUrl);
+
+            });
             builder.Services.AddScoped<IConsumeApiService, ConsumeApiService>();
 
             var app = builder.Build();

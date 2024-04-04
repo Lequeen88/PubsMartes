@@ -46,3 +46,18 @@ C:\Users\Gerald Silverio\Downloads\pubsmartes\pubsmartes\PubsMartes\PubsMartes.D
 C:\Users\Gerald Silverio\Downloads\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\refint\PubsMartes.Domain.dll
 C:\Users\Gerald Silverio\Downloads\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.pdb
 C:\Users\Gerald Silverio\Downloads\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\ref\PubsMartes.Domain.dll
+<<<<<<< HEAD
+=======
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\bin\Debug\net6.0\PubsMartes.Domain.deps.json
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\bin\Debug\net6.0\PubsMartes.Domain.dll
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\bin\Debug\net6.0\PubsMartes.Domain.pdb
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.AssemblyInfoInputs.cache
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.AssemblyInfo.cs
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.sourcelink.json
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.dll
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\refint\PubsMartes.Domain.dll
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\PubsMartes.Domain.pdb
+C:\Users\Gerald Silverio\Downloads\Telegram Desktop\pubsmartes\pubsmartes\pubsmartes\PubsMartes\PubsMartes.Domain\obj\Debug\net6.0\ref\PubsMartes.Domain.dll
+>>>>>>> Implementacion de la capa de servicio Parte II
